@@ -13,6 +13,7 @@ const Home = () => (
       </h1>
 
       <p className="description">
+        Primeiro
         Get started by editing <code>pages/index.js</code>
       </p>
 
